@@ -9,3 +9,6 @@ Fontes úteis e utilizada:
 Dica de atalho:
 
  Alt + Shift + seta p/ baixo  Clona a linha selecionada 
+ 
+Projeto Hospedado:
+ https://Netflixclone.warleygomes.repl.co
